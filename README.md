@@ -1,11 +1,12 @@
 *Pepperoni*
 8hrs @ 165
+
 *Brisket*
 Definitely use a water pan
 Pretty good doing 225 overnight, no wrap, water pan, then wrapping at 180* until 200*
 May separate point before smoking
-*Jerky*
 
+*Jerky*
 * Use flank steak, top/bottom round, eye of round - really any lean cut
 * Marinade overnight (or longer).
 * Trim as much fat off as possible. 
@@ -13,7 +14,6 @@ May separate point before smoking
 * Smoke at 180 until done - I like to go until all the red has faded to a dark brown/black color. This might be considered overdone but I like it almost crispy. 6-8hrs seems about right. 
 
 *Jerky Marinade (for 3-5lbs meat)*
-
 * 1 cup soy sauce
 * 1 cup Worcestershire sauce
 * 2 cups water
@@ -36,7 +36,6 @@ When heating, put in pan with a little oil, dust with rub, stir as you heat. As 
 
 
 *Aaron Franklin’s Ribs*
-
 * 270 for smoker temp
 * Full spare ribs
 * 3hr open 3hr wrapped
@@ -47,7 +46,6 @@ When heating, put in pan with a little oil, dust with rub, stir as you heat. As 
 
 
 *Aaron Franklin’s BBQ Sauce*
-
 * 2 tbsp fat (beef tallow, vegetable oil, lard, or bacon fat) 
 * 1/3 large yellow or white onion, roughly chopped
 * 4 cloves garlic, roughly chopped
@@ -59,4 +57,3 @@ When heating, put in pan with a little oil, dust with rub, stir as you heat. As 
 * 1 tsp fine sea salt
 * 1 tsp black pepper
 * 4 dashes Worcestershire sauce
-
