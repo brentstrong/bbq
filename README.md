@@ -4,6 +4,7 @@ Thinking of an organizational structure. For now a single doc is probably fine, 
 
 Maybe something like
 
+```
 |- Beef
   |- Ribs
   |- Brisket
@@ -13,6 +14,7 @@ Maybe something like
   |- Ribs
 |- Fish
   |- Salmon
+```
 
 #Pepperoni
 8hrs @ 165 (or as low as you can get it)
