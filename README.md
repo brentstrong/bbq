@@ -1,4 +1,4 @@
-#Accepting all pull requests!
+# Accepting all pull requests!
 
 Thinking of an organizational structure. For now a single doc is probably fine, but I hope this grows. 
 
@@ -16,22 +16,22 @@ Maybe something like
   |- Salmon
 ```
 
-#Pepperoni
+# Pepperoni
 8hrs @ 165 (or as low as you can get it)
 
-#Brisket
+# Brisket
 Definitely use a water pan
 Pretty good doing 225 overnight, no wrap, water pan, then wrapping at 180* until 200*
 May separate point before smoking
 
-#Jerky
+# Jerky
 * Use flank steak, top/bottom round, eye of round - really any lean cut
 * Marinade overnight (or longer).
 * Trim as much fat off as possible. 
 * Cut into 4in long and 1/4“ thick pieces before you place in marinade. 
 * Smoke at 180 until done - I like to go until all the red has faded to a dark brown/black color. This might be considered overdone but I like it almost crispy. 6-8hrs seems about right. 
 
-#Jerky Marinade (for 3-5lbs meat)
+# Jerky Marinade (for 3-5lbs meat)
 * 1 cup soy sauce
 * 1 cup Worcestershire sauce
 * 2 cups water
@@ -40,10 +40,10 @@ May separate point before smoking
 * 1 teaspoon black pepper
 * 1 onion, cut into large chunks
 
-#Wings
+# Wings
 Smoking before crisping made for gummy skin. Try at a straight 350, maybe smoking after as an experiment
 
-#Pulled Pork
+# Pulled Pork
 No wrap, very heavy rub, cook to 200+, probably around 205
 When heating, put in pan with a little oil, dust with rub, stir as you heat. As it’s getting hot add a little BBQ and keep stirring. Get it to where the pork is starting to crisp up.
 
@@ -53,7 +53,7 @@ When heating, put in pan with a little oil, dust with rub, stir as you heat. As 
 * Salt/pepper 50/50 and paprika for color
 
 
-#Aaron Franklin Style Ribs
+# Aaron Franklin Style Ribs
 * 270 for smoker temp
 * Full spare ribs
 * 3hr open 3hr wrapped
@@ -63,7 +63,7 @@ When heating, put in pan with a little oil, dust with rub, stir as you heat. As 
 * Sauce both sides after spritz then wrap
 
 
-#Aaron Franklin Style BBQ Sauce
+# Aaron Franklin Style BBQ Sauce
 * 2 tbsp fat (any kind of fat or oil - beef fat is probably best)
 * 1/3 large yellow or white onion chopped
 * 4 cloves garlic chopped
