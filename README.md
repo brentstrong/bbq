@@ -110,3 +110,6 @@ Alder wood suggested
 * Smoke at lowest heat possible and remove at 145 degrees
 * If cold smoking, can go up to 12hrs - start checking at 8hrs by pressing down on the fish - it should have just a 
   little give when done. If too soft, keep smoking
+
+
+https://www.seriouseats.com/recipes/2010/02/the-best-buffalo-wings-oven-fried-wings-recipe.html
