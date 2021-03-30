@@ -1,3 +1,8 @@
+Accepting all pull requests. This isn't limited to just BBQ, feel free to contribute anything.
+
+<!--ts-->
+<!--te-->
+
 # Beef
 ## Brisket
 * Slather in mustard
