@@ -1,6 +1,24 @@
 Accepting all pull requests. This isn't limited to just BBQ, feel free to contribute anything.
 
 <!--ts-->
+   * [Beef](#beef)
+      * [Brisket](#brisket)
+      * [Jerky](#jerky)
+      * [Jerky Marinade (for 3-5lbs meat)](#jerky-marinade-for-3-5lbs-meat)
+   * [Pork](#pork)
+      * [Pulled Pork](#pulled-pork)
+   * [Aaron Franklin Style Ribs](#aaron-franklin-style-ribs)
+   * [Chicken](#chicken)
+      * [Wings](#wings)
+   * [Fish](#fish)
+      * [Basic Salted Salmon (Oldtime Fisherman style)](#basic-salted-salmon-oldtime-fisherman-style)
+   * [Other](#other)
+      * [Pepperoni](#pepperoni)
+      * [Aaron Franklin Style BBQ Sauce](#aaron-franklin-style-bbq-sauce)
+      * [Cuban Sandwiches](#cuban-sandwiches)
+
+<!-- Added by: runner, at: Tue Mar 30 03:08:31 UTC 2021 -->
+
 <!--te-->
 
 # Beef
