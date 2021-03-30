@@ -4,10 +4,10 @@ Accepting all pull requests. This isn't limited to just BBQ, feel free to contri
    * [Beef](#beef)
       * [Brisket](#brisket)
       * [Jerky](#jerky)
-      * [Jerky Marinade (for 3-5lbs meat)](#jerky-marinade-for-3-5lbs-meat)
+      * [Jerky Marinade](#jerky-marinade)
    * [Pork](#pork)
       * [Pulled Pork](#pulled-pork)
-   * [Aaron Franklin Style Ribs](#aaron-franklin-style-ribs)
+      * [Aaron Franklin Style Ribs](#aaron-franklin-style-ribs)
    * [Chicken](#chicken)
       * [Wings](#wings)
    * [Fish](#fish)
@@ -17,7 +17,7 @@ Accepting all pull requests. This isn't limited to just BBQ, feel free to contri
       * [Aaron Franklin Style BBQ Sauce](#aaron-franklin-style-bbq-sauce)
       * [Cuban Sandwiches](#cuban-sandwiches)
 
-<!-- Added by: runner, at: Tue Mar 30 03:08:31 UTC 2021 -->
+<!-- Added by: runner, at: Tue Mar 30 03:12:57 UTC 2021 -->
 
 <!--te-->
 
