@@ -1,5 +1,3 @@
-Accepting all pull requests. This isn't limited to just BBQ, feel free to contribute anything.
-
 # Beef
 ## Brisket
 * Slather in mustard
