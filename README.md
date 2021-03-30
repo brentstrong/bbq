@@ -103,3 +103,6 @@ sandwich together and into a pan heated to low-med heat. Squish well and toast b
 
 https://www.meatchurch.com/blogs/recipes/smoked-buffalo-chicken-dip
 
+
+
+https://www.seriouseats.com/recipes/2010/02/the-best-buffalo-wings-oven-fried-wings-recipe.html
