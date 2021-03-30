@@ -37,7 +37,8 @@ Finish between 200 and 205 based on probe tenderness.
 * Smoke at 180 until done - I like to go until all the red has faded to a dark brown/black color. This might be 
   considered overdone, but I like it almost crispy. 6-8hrs seems about right. 
 
-## Jerky Marinade (for 3-5lbs meat)
+## Jerky Marinade 
+* For 3-5lbs meat
 * 1 cup soy sauce
 * 1 cup Worcestershire sauce
 * 2 cups water
@@ -57,7 +58,7 @@ keep stirring. Get it to where the pork is starting to crisp up.
 * 8hrs bare, 2hrs wrapped - Wrap when the fat cap splits, spritz with vinegar when wrapping
 * Salt/pepper 50/50 and paprika for color
 
-# Aaron Franklin Style Ribs
+## Aaron Franklin Style Ribs
 * 270 for smoker temp
 * Full spare ribs
 * 3hr open 3hr wrapped
