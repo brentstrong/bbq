@@ -1,30 +1,14 @@
-# Accepting all pull requests!
+Accepting all pull requests. This isn't limited to just BBQ, feel free to contribute anything.
 
-Thinking of an organizational structure. For now a single doc is probably fine, but I hope this grows. 
+# Beef
+## Brisket
+* Slather in mustard
+* Rub with a pepper-heavy hub
+* Mostly have done them fat-side down but may be trying it up one time
+* Moving more toward an Aaron Franklin style cook here - Cook at 275 with a water pan. Wrap at around 165 internal temp. 
+Finish between 200 and 205 based on probe tenderness.
 
-Maybe something like
-
-```
-|- Beef
-  |- Ribs
-  |- Brisket
-  |- Jerky
-|- Pork
-  |- Pulled
-  |- Ribs
-|- Fish
-  |- Salmon
-```
-
-# Pepperoni
-8hrs @ 165 (or as low as you can get it)
-
-# Brisket
-Definitely use a water pan
-Pretty good doing 225 overnight, no wrap, water pan, then wrapping at 180* until 200*
-May separate point before smoking
-
-# Jerky
+## Jerky
 * Use flank steak, top/bottom round, eye of round - really any lean cut
 * Marinade overnight (or longer).
 * Trim as much fat off as possible. 
@@ -32,7 +16,7 @@ May separate point before smoking
 * Smoke at 180 until done - I like to go until all the red has faded to a dark brown/black color. This might be 
   considered overdone, but I like it almost crispy. 6-8hrs seems about right. 
 
-# Jerky Marinade (for 3-5lbs meat)
+## Jerky Marinade (for 3-5lbs meat)
 * 1 cup soy sauce
 * 1 cup Worcestershire sauce
 * 2 cups water
@@ -41,10 +25,8 @@ May separate point before smoking
 * 1 teaspoon black pepper
 * 1 onion, cut into large chunks
 
-# Wings
-Smoking before crisping made for gummy skin. Try at a straight 350, maybe smoking after as an experiment
-
-# Pulled Pork
+# Pork
+## Pulled Pork
 No wrap, very heavy rub, cook to 200+, probably around 205
 When heating, put in pan with a little oil, dust with rub, stir as you heat. As it’s getting hot add a little BBQ and 
 keep stirring. Get it to where the pork is starting to crisp up.
@@ -53,7 +35,6 @@ keep stirring. Get it to where the pork is starting to crisp up.
 * Cook until probe tender - bag of butter
 * 8hrs bare, 2hrs wrapped - Wrap when the fat cap splits, spritz with vinegar when wrapping
 * Salt/pepper 50/50 and paprika for color
-
 
 # Aaron Franklin Style Ribs
 * 270 for smoker temp
@@ -67,7 +48,32 @@ keep stirring. Get it to where the pork is starting to crisp up.
 I love doing the ribs a bit hotter but think I want to add a step at the end to sauce. Thinking of trying a modified 
 3-2-1, starting at 270, wrapping for 2hrs at more like 225, then saucing and finishing at 225. 
 
-# Aaron Franklin Style BBQ Sauce
+
+# Chicken 
+## Wings
+Smoking before crisping made for gummy skin. Try at a straight 350, maybe smoking after as an experiment
+
+
+# Fish
+## Basic Salted Salmon (Oldtime Fisherman style)
+2.5-3lbs filet
+4-5 handfuls of salt
+Alder wood suggested
+* Put fish on butcher paper to soak up moisture
+* Cover fish in salt and refrigerate for 4hrs
+* Rinse fish 10-12 times in cold water
+* Pat dry and refrigerate uncovered overnight to help dry
+* Cut into 4 pieces and put in smoker
+* Smoke at lowest heat possible and remove at 145 degrees
+* If cold smoking, can go up to 12hrs - start checking at 8hrs by pressing down on the fish - it should have just a 
+  little give when done. If too soft, keep smoking
+
+# Other
+
+## Pepperoni
+8hrs @ 165 (or as low as you can get it)
+
+## Aaron Franklin Style BBQ Sauce
 * 2 tbsp fat (any kind of fat or oil - beef fat is probably best)
 * 1/3 large yellow or white onion chopped
 * 4 cloves garlic chopped
@@ -81,9 +87,7 @@ I love doing the ribs a bit hotter but think I want to add a step at the end to 
 * Several dashes Worcestershire 
 
 
-https://www.meatchurch.com/blogs/recipes/smoked-buffalo-chicken-dip
-
-# Cuban Sandwiches
+## Cuban Sandwiches
 * Mostly have used ciabatta rolls but other breads may work
 * Pulled pork (smoked of course)
 * Ham
@@ -97,16 +101,5 @@ half of the bun covering the whole bun. Heat up ham and pork and brown it a litt
 bottom half of the bun and add some more mustard on that. Add another piece of swiss cheese and the ham. Put the 
 sandwich together and into a pan heated to low-med heat. Squish well and toast both sides. Consume. 
 
+https://www.meatchurch.com/blogs/recipes/smoked-buffalo-chicken-dip
 
-# Smoked Salmon
-2.5-3lbs filet
-4-5 handfuls of salt
-Alder wood suggested
-* Put fish on butcher paper to soak up moisture
-* Cover fish in salt and refrigerate for 4hrs
-* Rinse fish 10-12 times in cold water
-* Pat dry and refrigerate uncovered overnight to help dry
-* Cut into 4 pieces and put in smoker
-* Smoke at lowest heat possible and remove at 145 degrees
-* If cold smoking, can go up to 12hrs - start checking at 8hrs by pressing down on the fish - it should have just a 
-  little give when done. If too soft, keep smoking
