@@ -1,23 +1,27 @@
 Accepting all pull requests. This isn't limited to just BBQ, feel free to contribute anything.
 
 <!--ts-->
-   * [Beef](#beef)
-      * [Brisket](#brisket)
-      * [Jerky](#jerky)
-      * [Jerky Marinade](#jerky-marinade)
-   * [Pork](#pork)
-      * [Pulled Pork](#pulled-pork)
-      * [Aaron Franklin Style Ribs](#aaron-franklin-style-ribs)
-   * [Chicken](#chicken)
-      * [Wings](#wings)
-   * [Fish](#fish)
-      * [Basic Salted Salmon (Oldtime Fisherman style)](#basic-salted-salmon-oldtime-fisherman-style)
-   * [Other](#other)
-      * [Pepperoni](#pepperoni)
-      * [Aaron Franklin Style BBQ Sauce](#aaron-franklin-style-bbq-sauce)
-      * [Cuban Sandwiches](#cuban-sandwiches)
+* [Beef](#beef)
+   * [Brisket](#brisket)
+   * [Jerky](#jerky)
+   * [Jerky Marinade](#jerky-marinade)
+* [Pork](#pork)
+   * [Pulled Pork](#pulled-pork)
+   * [Aaron Franklin Style Ribs](#aaron-franklin-style-ribs)
+   * [Asian Style Char Sui Sticky Ribs](#asian-style-char-sui-sticky-ribs)
+      * [Marinade](#marinade)
+      * [Glaze](#glaze)
+      * [Instructions](#instructions)
+* [Chicken](#chicken)
+   * [Wings](#wings)
+* [Fish](#fish)
+   * [Basic Salted Salmon (Oldtime Fisherman style)](#basic-salted-salmon-oldtime-fisherman-style)
+* [Other](#other)
+   * [Pepperoni](#pepperoni)
+   * [Aaron Franklin Style BBQ Sauce](#aaron-franklin-style-bbq-sauce)
+   * [Cuban Sandwiches](#cuban-sandwiches)
 
-<!-- Added by: runner, at: Tue Apr  6 22:41:57 UTC 2021 -->
+<!-- Added by: runner, at: Sun Jul  4 23:00:10 UTC 2021 -->
 
 <!--te-->
 
