@@ -72,7 +72,7 @@ I love doing the ribs a bit hotter but think I want to add a step at the end to 
 3-2-1, starting at 270, wrapping for 2hrs at more like 225, then saucing and finishing at 225. 
 
 ## Asian Style Char Sui Sticky Ribs
-### Marinade
+**Marinade**
 * 2 1/2 tablespoons hoisin sauce
 * 2 1/2 tablespoons soy sauce
 * 1/4 cup rice wine vinegar
@@ -81,7 +81,7 @@ I love doing the ribs a bit hotter but think I want to add a step at the end to 
 * 2 cloves garlic minced
 * 1/4 teaspoon Chinese five spice powder
 
-### Glaze
+**Glaze**
 * 1/4 cup hoisin sauce
 * 1/4 cup soy sauce
 * 1 tablespoon rice wine vinegar
@@ -91,7 +91,7 @@ I love doing the ribs a bit hotter but think I want to add a step at the end to 
 * 1/2 teaspoon red food coloring
 * 1/4 teaspoons black pepper
 
-### Instructions
+**Instructions**
 * Place rack of ribs, bone side down, onto a large piece of plastic wrap.
 * Combine marinade ingredients in a small bowl and apply mixture evenly onto meat side of ribs.
 * Secure ribs in plastic wrap and place into the refrigerator meat side down for 8-24 hours.
