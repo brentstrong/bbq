@@ -70,6 +70,34 @@ keep stirring. Get it to where the pork is starting to crisp up.
 I love doing the ribs a bit hotter but think I want to add a step at the end to sauce. Thinking of trying a modified 
 3-2-1, starting at 270, wrapping for 2hrs at more like 225, then saucing and finishing at 225. 
 
+## Asian Style Char Sui Sticky Ribs
+### Marinade
+* 2 1/2 tablespoons hoisin sauce
+* 2 1/2 tablespoons soy sauce
+* 1/4 cup rice wine vinegar
+* 3 tablespoons honey
+* 2 tablespoons brown sugar
+* 2 cloves garlic minced
+* 1/4 teaspoon Chinese five spice powder
+
+### Glaze
+* 1/4 cup hoisin sauce
+* 1/4 cup soy sauce
+* 1 tablespoon rice wine vinegar
+* 2 tablespoons brown sugar
+* 1 clove garlic minced
+* 1/2 teaspoon Chinese
+* 1/2 teaspoon red food coloring
+* 1/4 teaspoons black pepper
+
+### Instructions
+* Place rack of ribs, bone side down, onto a large piece of plastic wrap.
+* Combine marinade ingredients in a small bowl and apply mixture evenly onto meat side of ribs.
+* Secure ribs in plastic wrap and place into the refrigerator meat side down for 8-24 hours.
+* Set smoker to 225 and cook for 4 hours.
+* Combine glaze ingredients in a medium bowl. Start basting the last hour  of cook time.
+* Baste several times on the meat side of the rack. Watch for burning.
+* Cut into individual ribs and garnish with green onion and toasted sesame seeds. 
 
 # Chicken 
 ## Wings
