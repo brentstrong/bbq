@@ -9,9 +9,6 @@ Accepting all pull requests. This isn't limited to just BBQ, feel free to contri
    * [Pulled Pork](#pulled-pork)
    * [Aaron Franklin Style Ribs](#aaron-franklin-style-ribs)
    * [Asian Style Char Sui Sticky Ribs](#asian-style-char-sui-sticky-ribs)
-      * [Marinade](#marinade)
-      * [Glaze](#glaze)
-      * [Instructions](#instructions)
 * [Chicken](#chicken)
    * [Wings](#wings)
 * [Fish](#fish)
@@ -21,7 +18,7 @@ Accepting all pull requests. This isn't limited to just BBQ, feel free to contri
    * [Aaron Franklin Style BBQ Sauce](#aaron-franklin-style-bbq-sauce)
    * [Cuban Sandwiches](#cuban-sandwiches)
 
-<!-- Added by: runner, at: Sun Jul  4 23:00:10 UTC 2021 -->
+<!-- Added by: runner, at: Sun Jul  4 23:03:24 UTC 2021 -->
 
 <!--te-->
 
