@@ -35,8 +35,7 @@ Finish between 200 and 205 based on probe tenderness.
 * Marinade overnight (or longer).
 * Trim as much fat off as possible. 
 * Cut into 4in long and 1/4“ thick pieces before you place in marinade. 
-* Smoke at 180 until done - I like to go until all the red has faded to a dark brown/black color. This might be 
-  considered overdone, but I like it almost crispy. 6hrs seems about right. 
+* Smoke at 180 until done - I had started going 6hrs with it but recently backed off to around 4 because it was getting too crispy/hard.
 
 ## Jerky Marinade 
 * For 3-5lbs meat
