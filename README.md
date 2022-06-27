@@ -48,6 +48,18 @@ Finish between 200 and 205 based on probe tenderness.
 * 1 teaspoon black pepper
 * 1 onion, cut into large chunks
 
+## Keto Jerky Marinade (it's actually better!)
+* For 3-5lbs meat
+* 1 cup soy sauce
+* 1 cup Worcestershire sauce
+* 1 tablespoon Hickory Liquid Smoke
+* 2 cups water
+* 1 tablespoon cayenne pepper
+* 1 tablespoon paprika
+* 2 teaspoons garlic powder
+* 2 teaspoons black pepper
+* 2 onion powder
+
 # Pork
 ## Pulled Pork
 No wrap, very heavy rub, cook to 200+, probably around 205
