@@ -5,6 +5,7 @@ Accepting all pull requests. This isn't limited to just BBQ, feel free to contri
    * [Brisket](#brisket)
    * [Jerky](#jerky)
    * [Jerky Marinade](#jerky-marinade)
+   * [Keto Jerky Marinade (it's actually better!)](#keto-jerky-marinade-its-actually-better)
 * [Pork](#pork)
    * [Pulled Pork](#pulled-pork)
    * [Aaron Franklin Style Ribs](#aaron-franklin-style-ribs)
@@ -18,7 +19,8 @@ Accepting all pull requests. This isn't limited to just BBQ, feel free to contri
    * [Aaron Franklin Style BBQ Sauce](#aaron-franklin-style-bbq-sauce)
    * [Cuban Sandwiches](#cuban-sandwiches)
 
-<!-- Added by: runner, at: Thu Nov 25 06:18:39 UTC 2021 -->
+<!-- Created by https://github.com/ekalinin/github-markdown-toc -->
+<!-- Added by: runner, at: Mon Jun 27 20:38:22 UTC 2022 -->
 
 <!--te-->
 
